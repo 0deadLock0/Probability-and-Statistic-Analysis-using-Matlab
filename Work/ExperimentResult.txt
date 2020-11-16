@@ -1,0 +1,14 @@
+
+Expected Time Gaps-
+For Different Senders:1.6552 minute(s)
+For Same Sender:1.3448 minute(s)
+
+Probability that the time elapsed until next message is less than the expected time gap-
+For Different Senders:0.5
+For Same Sender:0.5
+
+Heads and Tails Count-
+For Different Senders:
+Head-8, Tail-1
+For Same Sender:
+Head-8, Tail-1
